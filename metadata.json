@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI DocuMorph",
+  "description": "An intelligent document converter that transforms PDFs and Images into structured data (JSON, Markdown, HTML, CSV) using Google Gemini AI.",
+  "requestFramePermissions": []
+}
